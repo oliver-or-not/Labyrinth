@@ -51,7 +51,7 @@ struct LogInView: View {
                 .scaledToFit()
                 .frame(width: 30, height: 30)
                 .foregroundColor(Color(red: 0.7, green: 0.8, blue: 1.0))
-                .offset(x: 110, y: 28)
+                .offset(x: 110, y: 30)
         }        
     }
 }
